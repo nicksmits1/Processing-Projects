@@ -1,3 +1,3 @@
 # Processing Projects
-Here are some of my first Processing projects
-(i made some of them when i was a beginner, so please excuse the spagehtti code in some of them)
+Here are some of my first projects written in Processing (a visual Java IDE)
+(I made all of these projects when I was 15, so please excuse the spagehtti code in some projects ... or all of them)
